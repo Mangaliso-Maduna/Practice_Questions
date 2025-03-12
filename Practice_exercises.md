@@ -86,9 +86,49 @@ function greet(name) {
 6.5 Merge two objects `{a:1, b:2}` and `{c:3, d:4}`.
 
 ## 7. **Arrays**
+7.1 Create an array of 5 programming languages.
+
+7.2 Add an element at the beginning of an array.
+
+7.3 Access the third element in an array.
+
+7.4 Add an element `"Python"` to the end of an array.
+
+7.5 Remove the first element from an array.
+
+7.6 Find the index of `"JavaScript"` in `["Python", "JavaScript", "C++"]`.
+
 
 ## 8. **Array Methods**
+8.1. Filter out even numbers from `[1,2,3,4,5,6]`.
+
+8.2 Use `map()` to create a new array that doubles each number in `[1,2,3]`.
+
+8.3 Use `reduce()` to sum up `[10, 20, 30]`.
+
+8.4 Sort `[5,3,8,1,2]` in ascending order.
+
+8.5 Check if every element in `[5, 10, 15, 20]` is greater than 4. return all elements greater than 4.
+
 ## 9. **Advanced Object & Array Manipulations**
+9.1. Given `const person = { name: "Alice", age: 25, city: "NY" }`, extract `name` using **destructuring**.
+
+9.2. Destructure the array `[10, 20, 30]` into `a`, `b`, and `c`.
+
+9.3. Create a function that accepts an object and prints its properties.
+
+9.4. Given `[{id:1, name:"John"}, {id:2, name:"Jane"}]`, find the object with `id = 2`.
+
+9.5. Write a function that removes duplicates from `[1,2,3,3,4,4,5]`.
+
 ## 10. **Logical & Conditional Challenges**
-## 11. **Array Methods**
-## 12. **Array Methods**
+10.1 Write a program to check if a number is prime. 
+
+10.2 Find the largest number in `[10, 50, 30, 70, 20]`.
+
+10.3 10.4 Write a program to count the occurrences of each letter in **<u>"banana"</u>**.
+
+10.4 Write a program to count the occurrences of each letter in **<u>"pneumonoultramicroscopicsilicovolcanoconiosis"</u>**.
+
+10.5 Write a function that generates a random number between 1 and 100
+
