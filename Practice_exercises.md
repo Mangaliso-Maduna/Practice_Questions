@@ -65,8 +65,28 @@ function test() {
 test();
 ```
 
+5.4 Explain the difference between function declarations and function expressions.
+
+5.5 Rewrite the following function as an <u>arrow function</u>:
+```
+function greet(name) {
+    return "Hello " + name;
+}
+```
+
 ## 6. **OBjects**
+6.1 Create an object representing a student with properties `name`, `age`, and `grade`.
+
+6.2 Add a method `getDetails` to the object that returns `"Name: John, Age: 20, Grade: A"`.
+
+6.3 Write a function that returns the keys of an object.
+
+6.4 Write a function that returns the values of an object.
+
+6.5 Merge two objects `{a:1, b:2}` and `{c:3, d:4}`.
+
 ## 7. **Arrays**
+
 ## 8. **Array Methods**
 ## 9. **Advanced Object & Array Manipulations**
 ## 10. **Logical & Conditional Challenges**
