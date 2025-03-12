@@ -28,7 +28,9 @@
 3.2	Convert <u>`"hello world"`</u> to uppercase and <u>`"HELLO WORLD"`</u> to lowercase.
 
 3.3	Replace <u>`"JavaScript"`</u> with <u>`"Python"`</u> in the sentence **<u>`"I love JavaScript"`</u>**.
+
 3.4	Check if the word <u>`"code"`</u> exists in <u>`"Learn to code with JavaScript"`</u>.
+
 3.5	Reverse a given string <u>`"hello"`</u> to **<u>`"olleh"`</u>**.
 
 ## 4. **Functions**
@@ -44,10 +46,23 @@
 
 ## 5. **Function Scoping & Hoisting**
 51. What will be the output of this code?
-
+    
 ```
   console.log(x);
   var x = 5;
+```
+5.2 Explain the difference between `let`, `const`, and `var` in terms of scoping.
+
+5.3 What will be the output of this function?
+```
+function test() {
+    var a = 10;
+    if (true) {
+        var a = 20;
+    }
+    console.log(a);
+}
+test();
 ```
 
 ## 6. **OBjects**
